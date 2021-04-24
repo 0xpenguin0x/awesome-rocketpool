@@ -22,7 +22,6 @@
 * [Whitepaper](https://www.rocketpool.net/files/RocketPoolWhitePaper.pdf)
 * [Discord](https://discord.com/invite/tCRG54c)
 * [FAQ](https://medium.com/rocket-pool/rocket-pool-101-faq-ee683af10da9)
-* etc
 
 ## Tutorials & Guides 
 
@@ -34,6 +33,8 @@
 ## Blogs & Articles
 
 ## Videos
+* [Rocket Pool Explainer Series: Part One - Logic Beach](https://www.youtube.com/watch?v=uytfJlMfdyc)
+* [Rocket Pool Explainer Series: Part Two - Logic Beach](https://www.youtube.com/watch?v=Vc4rxI9zEis)
 
 ## Market information
 
@@ -47,9 +48,6 @@
 
 ### Comparisons to Lido and centralized services
 
-Eth2 Clients
-
-        - Comparisons to Lido and centralized services
 
 ####Future:
 - newsletters
