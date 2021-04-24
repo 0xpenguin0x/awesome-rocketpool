@@ -1,6 +1,6 @@
-# awesome-rocketpool
 
-### Resources
+
+## Resources
 - [About](#about)
 - [Tutorials & Guides](#tutorials-guides)
   - Node Operator
@@ -15,23 +15,23 @@
 	- Eth2 Clients
 	- Comparisons to Lido and centralized services
 
-# About {#about}
+## About
 
 * [Website](https://www.rocketpool.net)
-* [Github]
-* [Discord]
-* [Medium]
+* [Github](https://github.com/rocket-pool/rocketpool)
+* [Discord](https://discord.com/invite/tCRG54c)
+* [Medium](https://medium.com/rocket-pool)
 * etc
 
-# Tutorials & Guides {#tutorials-guides}
+## Tutorials & Guides 
 
-## Node Operator
+### Node Operator
 * [Rocket Pool v3.0 Beta — Node Operator’s Guide](https://medium.com/rocket-pool/rocket-pool-v2-5-beta-node-operators-guide-77859891766b)
 
-## rETH Staker
+### rETH Staker
 
 
 
-Future:
+####Future:
 - newsletters
 - Integrations (? For example if Argent and others support rETH swapping)
