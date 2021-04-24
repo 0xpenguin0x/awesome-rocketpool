@@ -2,7 +2,7 @@
 
 ## Resources
 - [Official](#official)
-- [Tutorials & Guides](#tutorials-guides)
+- [Guides & tutorials](#guides-tutorials)
   - [Node Operator](#node-operator)
   - [rETH Staker](#reth-staker)
 - [Informational Resources](#informational-resources)
@@ -11,6 +11,7 @@
 - [Market information](#market-information)
 - [Tools](#tools)
 - [Related Resources](#related-resources)
+- [Community & Social Links](#community-&-social-links)
 
 
 
@@ -21,7 +22,6 @@
 * [Medium](https://medium.com/rocket-pool)
 * [Docs](https://rocket-pool.readthedocs.io/en/latest/)
 * [Whitepaper](https://www.rocketpool.net/files/RocketPoolWhitePaper.pdf)
-* [Discord](https://discord.com/invite/tCRG54c)
 * [FAQ](https://medium.com/rocket-pool/rocket-pool-101-faq-ee683af10da9)
 
 ## Tutorials & Guides 
@@ -51,6 +51,8 @@
 
 ### Comparisons to Lido and centralized services
 
+## Community & Social Links
+* [Discord](https://discord.com/invite/tCRG54c)
 
 ####Future:
 - newsletters
