@@ -5,8 +5,9 @@
 - [Tutorials & Guides](#tutorials-guides)
   - [Node Operator](#node-operator)
   - [rETH Staker](#reth-staker)
-- [Blogs & Articles](#blogs-articles)
-- [Videos](#videos)
+- [Informational Resources](#informational-resources)
+  - [Blogs & Articles](#blogs-articles)
+  - [Videos](#videos)
 - [Market information](#market-information)
 - [Tools](#tools)
 - [Related Resources](#related-resources)
@@ -30,9 +31,11 @@
 
 ### rETH Staker
 
-## Blogs & Articles
+## Informational Resources
 
-## Videos
+### Blogs & Articles
+
+### Videos
 * [Rocket Pool Explainer Series: Part One - Logic Beach](https://www.youtube.com/watch?v=uytfJlMfdyc)
 * [Rocket Pool Explainer Series: Part Two - Logic Beach](https://www.youtube.com/watch?v=Vc4rxI9zEis)
 
