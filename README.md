@@ -19,8 +19,11 @@
 
 * [Website](https://www.rocketpool.net)
 * [Github](https://github.com/rocket-pool/rocketpool)
-* [Discord](https://discord.com/invite/tCRG54c)
 * [Medium](https://medium.com/rocket-pool)
+* [Docs](https://rocket-pool.readthedocs.io/en/latest/)
+* [Whitepaper](https://www.rocketpool.net/files/RocketPoolWhitePaper.pdf)
+* [Discord](https://discord.com/invite/tCRG54c)
+* [FAQ](https://medium.com/rocket-pool/rocket-pool-101-faq-ee683af10da9)
 * etc
 
 ## Tutorials & Guides 
