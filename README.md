@@ -54,6 +54,3 @@
 ## Community & Social Links
 * [Discord](https://discord.com/invite/tCRG54c)
 
-####Future:
-- newsletters
-- Integrations (? For example if Argent and others support rETH swapping)
