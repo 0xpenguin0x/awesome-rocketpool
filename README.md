@@ -9,9 +9,9 @@
 - [Videos](#videos)
 - [Market information](#market-information)
 - [Tools](#tools)
-- Related Resources
-	- Eth2 Clients
-	- Comparisons to Lido and centralized services
+- [Related Resources](#related-resources)
+
+
 
 ## About
 
@@ -41,6 +41,15 @@
 * [Rocketpool Tool](https://www.rocketpooltool.com/)
 * [Node Operator Dashboard (by Beaconchain)]
 
+## Related Resouces
+
+### Eth2 Clients
+
+### Comparisons to Lido and centralized services
+
+Eth2 Clients
+
+        - Comparisons to Lido and centralized services
 
 ####Future:
 - newsletters
