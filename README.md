@@ -15,7 +15,7 @@
 	- Eth2 Clients
 	- Comparisons to Lido and centralized services
 
-# About (#about)
+# About(#about)
 
 * [Website](https://www.rocketpool.net)
 * [Github]
@@ -23,7 +23,7 @@
 * [Medium]
 * etc
 
-# Tutorials & Guides (#tutorials-guides)
+# Tutorials & Guides(#tutorials-guides)
 
 ## Node Operator
 * [Rocket Pool v3.0 Beta — Node Operator’s Guide](https://medium.com/rocket-pool/rocket-pool-v2-5-beta-node-operators-guide-77859891766b)
