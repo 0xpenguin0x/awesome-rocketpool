@@ -3,8 +3,8 @@
 ## Resources
 - [About](#about)
 - [Tutorials & Guides](#tutorials-guides)
-  - Node Operator
-  - rETH Staker
+  - [Node Operator](#node-operator)
+  - [rETH Staker](#reth-staker)
 - [Blogs & Articles](#blogs-articles)
 - [Videos](#videos)
 - [Market information](#market-information)
