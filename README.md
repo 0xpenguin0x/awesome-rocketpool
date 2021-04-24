@@ -1,7 +1,7 @@
 
 
 ## Resources
-- [About](#about)
+- [Official](#official)
 - [Tutorials & Guides](#tutorials-guides)
   - [Node Operator](#node-operator)
   - [rETH Staker](#reth-staker)
@@ -14,7 +14,7 @@
 
 
 
-## About
+## Official
 
 * [Website](https://www.rocketpool.net)
 * [Github](https://github.com/rocket-pool/rocketpool)
