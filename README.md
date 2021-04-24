@@ -9,8 +9,6 @@
 - [Videos](#videos)
 - [Market information](#market-information)
 - [Tools](#tools)
-	- [Rocketpool Tool](https://www.rocketpooltool.com/)
-	- Node Operator Dashboard (by Beaconchain)
 - Related Resources
 	- Eth2 Clients
 	- Comparisons to Lido and centralized services
@@ -33,6 +31,15 @@
 
 ### rETH Staker
 
+## Blogs & Articles
+
+## Videos
+
+## Market information
+
+## Tools
+* [Rocketpool Tool](https://www.rocketpooltool.com/)
+* [Node Operator Dashboard (by Beaconchain)]
 
 
 ####Future:
